@@ -1,34 +1,33 @@
 # watchawks2
-Projenin Adı: Aktif Güvenlik Radar Sistemi 
+Projenin Adı:
+
+Aktif Güvenlik Radar Sistemi 
 
 
-Projenin Amacı: İşyeri,müze ve fabrika gibi yerlerde güvenliğin aktif bir şekilde sağlanması.
+Projenin Amacı:
+
+İşyeri,müze ve fabrika gibi yerlerde güvenliğin aktif bir şekilde sağlanması.
 
 
 Projede kullanılan malzemeler:
 
-
 1.Raspberry Pi 3
-
 
 2.Breadboard
 
-
 3.Jumper Kablo
-
 
 4.1 adet 1K, 1 Adet 2K direnç
 
-
 5.Buzzer 
-
 
 6.MG90 Servo Motor
 
-
 7.HC-SR04 Ultrasonik Mesafe Sensörü
  
-Projede kullanılan yazılım dili: Python 2
+Projede kullanılan yazılım dili:
+
+Python 2
 
 Projenin çalışma mantığı:
   
